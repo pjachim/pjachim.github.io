@@ -1,4 +1,6 @@
-Peter Jachim
+---
+/ /projects/ /about_me/ /technologies/
+---
 
 ## About Me
 I am a data scientist, and a PhD candidate at DePaul University. I especially enjoy using NLP techniques to analyze trolling and other online discourse, my background is mainly in medical devices/healthcare.
