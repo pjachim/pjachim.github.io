@@ -1,12 +1,8 @@
---- 
-title: Peter Jachim
-layout: jekyll-theme-cayman
-filename: README.md
----                             
+---
+layout: default
+---
 
-
-
- a data scientist, and a PhD candidate at DePaul University. I especially enjoy using NLP techniques to analyze trolling and other online discourse, my background is mainly in medical devices/healthcare.
+I am a data scientist, and a PhD candidate at DePaul University. I especially enjoy using NLP techniques to analyze trolling and other online discourse, my background is mainly in medical devices/healthcare.
 
 ## Projects
  - [HIPAA Breach Analysis](https://github.com/pjachim/HIPAA_Breach_Classification/blob/master/HIPAA%20Breach%20Classification.ipynb) this is a project I did a couple of years ago as I was starting my Master's studies.
