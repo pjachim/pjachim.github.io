@@ -1,2 +1,6 @@
 theme: jekyll-theme-minimal
 title: Peter Jachim
+header_pages:
+  - index.md
+  - papers.md
+  - scripts.md
